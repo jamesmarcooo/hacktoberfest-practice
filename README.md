@@ -264,7 +264,7 @@ Hurray! You successfully made a contribution!
   - [Jade Kneen](https://github.com/jadekneen)
   - [Jaime Jones](https://github.com/jaime-lynn)
   - [Jainish Shah](https://github.com/Jainish-shah)
-  - [James Marco Reyes](https://github.com/jamesmarcooo)
+  - [James Marco Reyes](https://github.com/jamesmarcooo/)
   - [Jatin Rao](https://github.com/jatin2003)
   - [Jessica Salbert](https://github.com/jessicasalbert)
   - [Jivthesh](https://github.com/jivthesh)
